@@ -1,4 +1,4 @@
-# Hi there, I'm Eduardo Arturo Pérez Martín 👋
+# Hi there, I'm Eduardo Arturo Pérez Martín
 
 <p align="left">
   <a href="https://www.linkedin.com/in/edupm21100" target="_blank">
@@ -12,20 +12,20 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 Desarrollador de **Aplicaciones Multiplataforma (DAM)** especializado en arquitectura **Full Stack** (Java / Spring Boot + Angular) y **Microservicios**. 
 
 Poseo una combinación única de perfil técnico y **Grado en Derecho**, lo que me aporta gran capacidad analítica y visión estratégica en áreas como **Compliance legal, RGPD y Derecho de la Inteligencia Artificial**.
 
-* 🎓 **Formación:** FP Superior en DAM (2024–2026) | Grado en Derecho (2018–2023)
-* 💼 **Experiencia:** Desarrollador Full Stack en **Viewnext** (Spring Boot, Angular, Docker, Kafka)
-* 📜 **Certificaciones:** IBM AI Fundamentals (2026)
-* 🌐 **Idiomas:** Español (Nativo) | Inglés (C1 - Cambridge) | Chino (A2 - EOI)
+* **Formación:** FP Superior en DAM (2024–2026) | Grado en Derecho (2018–2023)
+* **Experiencia:** Desarrollador Full Stack en **Viewnext** (Spring Boot, Angular, Docker, Kafka)
+* **Certificaciones:** IBM AI Fundamentals (2026)
+* **Idiomas:** Español (Nativo) | Inglés (C1 - Cambridge) | Chino (A2 - EOI)
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -51,16 +51,16 @@ Poseo una combinación única de perfil técnico y **Grado en Derecho**, lo que 
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Proyecto | Descripción | Tecnologías | Enlace |
 | :--- | :--- | :--- | :---: |
-| **Generador de Exámenes** | Backend para la creación, gestión y control de acceso a exámenes. | `Java`, `Spring Boot`, `SQL` | [📂 Repo](https://github.com/edupm21100/generador-examenes-back) |
-| **Prospero** | Juego móvil interactivo nativo para Android. | `Android Studio`, `Java` | [📂 Repo](https://github.com/edupm21100/Prospero) |
+| **Generador de Exámenes** | Backend para la creación, gestión y control de acceso a exámenes. | `Java`, `Spring Boot`, `SQL` | [Repo](https://github.com/edupm21100/generador-examenes-back) |
+| **Prospero** | Juego móvil interactivo nativo para Android. | `Android Studio`, `Java` | [Repo](https://github.com/edupm21100/Prospero) |
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=edupm21100&show_icons=true&theme=tokyonight&count_private=true" alt="Eduardo's GitHub Stats" width="48%" />
