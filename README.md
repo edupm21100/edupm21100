@@ -70,5 +70,5 @@ Poseo una combinación única de perfil técnico y **Grado en Derecho**, lo que 
 ---
 
 <p align="center">
-  <i>💡 "Construyendo software seguro y de alta calidad combinando tecnología y compliance."</i>
+  <i>"Sigo aprendiendo y sigo siendo paciente"</i>
 </p>
